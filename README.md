@@ -1,4 +1,4 @@
-##<p style="text-align: center;">Hii there 👋</p>##
+<h2 style="text-align: center;">Hii there 👋</h2>
 
 
 - 🔭  I'm currently working with my hands to make magic happen on the web and providing lasting solutions.
