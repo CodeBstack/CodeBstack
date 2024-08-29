@@ -6,6 +6,6 @@
 - 🔭  I'm currently working with my hands to make magic happen on the web and providing lasting solutions.
 - 🌱 I’m currently learning everything I need to, that can make me more valuable.
 - 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about anything around ReactJs, NextJs, JavaScript.
+- 💬 Ask me about anything around React, Next, JavaScript, Typescript infact, elements of web development.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love music and I play the piano.
